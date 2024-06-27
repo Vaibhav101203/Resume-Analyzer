@@ -1,0 +1,7 @@
+re==2.2.1
+nltk==3.8.1
+requests==2.31.0
+PyPDF2==3.0.1
+streamlit==1.31.1
+streamlit-tags==1.2.8
+scipy==1.10.1
